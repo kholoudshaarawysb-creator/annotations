@@ -56,7 +56,7 @@ logic3:no spaces
     public Object getter(ProceedingJoinPoint pjp) throws Throwable {
         //getter? return value , transformation
         System.out.println("shata");
-// logic: Convert from uppercase to lowercase? gets the value and applies the method
+// logic: Convert from uppercase to lowercase? returns the value and applies the method
 
         Object gett = pjp.proceed(); //getter method is executed
 /*Obj to String

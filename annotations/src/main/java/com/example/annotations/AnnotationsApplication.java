@@ -18,11 +18,6 @@ public class AnnotationsApplication {
 		String input= scanner.nextLine();
 
 	//	Userr userr =new Userr(); xxxx aop -> xxx...proxy
-
-
-
-
-		userr.setName("omar");
 */
 	}
 
